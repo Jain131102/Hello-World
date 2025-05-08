@@ -1,5 +1,7 @@
 # 🌍 Hello World in Multiple Languages
 
+This repository contains simple **"Hello, World!"** programs written in various programming languages for quick reference and comparison.
+
 ## 🛠️ Compiled Languages
 - C  
 - C++  
